@@ -8,7 +8,7 @@ Dan Osherson
 
 None
 
-**Learning Objectives**
+## Learning Objectives
 
 1.  Define symmetrical outcomes
 
